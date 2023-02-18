@@ -1,4 +1,4 @@
-baseURL = "Quennie-Blog.netlify.com"
+baseURL = "quennie-blog.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
